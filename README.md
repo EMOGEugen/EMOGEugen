@@ -1,8 +1,4 @@
-- Hi, im Eugen
-- #ilovepython
-- Im creating flappy bird (with keras AI) on PyGame
-- Im 9 (real)
-- Im just beginner
+- #donthatefurries
 
 <!---
 EMOGEugen/EMOGEugen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
